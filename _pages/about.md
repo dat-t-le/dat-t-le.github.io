@@ -1,8 +1,23 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/syuhei-inoue-unsplash.jpg
+  caption: "[Syuhei Inoue - Unsplash](https://unsplash.com/photos/5eTTeTKUCkE)"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Dat.
+I was a thermal engineer in the space industry for the past 5+ years.
+I've worked on some very cool satellites and payloads, but over time, I discovered a passion for data analysis and programming.
+So I decided to switch careers and pursue data analytics.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm most experienced programming with Python, but recently I've been diving into R for statistical computing and SQL for querying databases.
+I consider myself passionate about data visualizaiton and I really enjoy the challenge of creating visuals that are effective and easily understood.
+Though I've used Excel or packages like `matplotlib` and `seaborn` to create charts, I'm gaining proficiency with dedicated tools like Tableau.
+And in my free time, I have too many hobbies to keep track of...my latest obsessions are brainstorming cross-cultural food dishes and learning to read/speak Japanese.
+
+Here you can check out my [resume]({{ site.url }}/assets/docs/Resume_DatLe.pdf) or data analysis [portfolio]({% link _pages/portfolio.md %}). 
+Occasionally I'll [blog]({% link _pages/blog-year.md %}) about data analysis, data science, programming, or related topics.
+
+You can reach me via [email](mailto:dat.t.le@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/dattle).
+
