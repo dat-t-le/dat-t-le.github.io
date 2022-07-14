@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Dat Le"
-  avatar : "/assets/images/dat_bio_photo.jpeg"
+  avatar : "/assets/images/dat_bio_photo.jpg"
   bio    : "Prospective Data Analyst"
   location: "Boston, MA"
   links:
