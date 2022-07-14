@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /assets/docs/Resume_DatLe.pdf
+  - title: "Blog"
+    url: /blog/year/
   - title: "About"
     url: /about/
+
+nav_post_type:
+  - title: "By Year"
+    url: /blog/year/
+  - title: "By Category"
+    url: /blog/categories/
+  - title: "By Tag"
+    url: /blog/tags/
